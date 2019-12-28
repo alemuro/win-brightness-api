@@ -1,0 +1,1 @@
+python.exe C:\Users\user\Desktop\brightness.py
