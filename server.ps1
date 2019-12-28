@@ -1,1 +1,1 @@
-python.exe C:\Users\user\Desktop\brightness.py
+python.exe .\brightness.py
